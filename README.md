@@ -1,5 +1,5 @@
 # StockSentimentAnalysis
-This project of Sentiment Analysis on Financial News classifies the polarity of a given text, article or news snippet about the financial markets using VADER sentiment analysis. 
+This project of Sentiment Analysis on Financial News classifies the polarity of a given text, article or news snippet about the financial markets using VADER sentiment analysis. The final output is shown below. The red lines denote that on those days, negative new articles were released about the company choosen. Similarly, the green lines denote the release of positive articles on those days. We can use these as a kind of buy or sell signal for the particular company. 
 ![Final Output](https://drive.google.com/uc?export=view&id=15aBMVSkrBIZfk1dU28hFuaiYlZjVNOYv)
 
 # Working 
