@@ -12,3 +12,5 @@ This project of Sentiment Analysis on Financial News classifies the polarity of 
 
 Apart from doing sentiment analysis the notebook also shows some charts related to the selected company using the yfinance API. Based on that data we create the indicators of RSI, Bollinger Bands and MACD (Moving Average Convergence Divergence) and display it on graphs for the user to view. 
 ![Technical Output](https://drive.google.com/uc?export=view&id=1j0997G5rdDgbXfypuTK-IUtKgg9fkYA5)
+
+**Note: **
